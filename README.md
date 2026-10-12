@@ -106,6 +106,10 @@ Console commands: `mutasc.MeasureSeries <s> [warmup] [pair 0|1] [label] [simulat
   agents and about 9 FPS at 2000 - and the simulation starts falling behind real time (about
   10.6 s discarded over a 60 s window at 1500 agents, about 23.6 s at 2000).
 
+## Interface
+
+![MUTASC Interface](img/mutasc.png)
+
 ## Usage and source access
 
 Permission is granted, free of charge, to download, install, copy, and run the packaged
